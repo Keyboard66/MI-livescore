@@ -12,7 +12,7 @@
 		"name": "Test-Android",
 		"order": 190000,
 		"parentChapterId": 407,
-		"type": 0,
+		"type": 1,
 		"userControlSetTop": true,
 		"xiaomi": true,
 		"vivo": false,
